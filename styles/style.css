@@ -540,7 +540,7 @@ body {
     padding-top: 23px;
     padding-bottom: 50px;
     padding-left: 240px;
-    background: url('../images/image\ 6.1.jpg') no-repeat;
+    background: url('../images/image6.1.jpg') no-repeat;
     list-style: none;
 }
 
@@ -646,7 +646,7 @@ body {
 .style-section {
     margin-top: 242px;
     height: 864px;
-    background: url('../images/image\ 5.jpg'), linear-gradient(109.8deg, rgba(0, 0, 0, 0.75) 0%, rgba(0, 0, 0, 0.9) 100%);
+    background: url('../images/image5.jpg'), linear-gradient(109.8deg, rgba(0, 0, 0, 0.75) 0%, rgba(0, 0, 0, 0.9) 100%);
     background-size:cover;
     background-blend-mode: multiply;
 }
@@ -706,7 +706,7 @@ body {
     margin-top: 71px;
 }
 
-.style_selected-photo,.style_navigatiom {
+.style_selected-photo,.style_navigation {
     display: none;
 }
 
